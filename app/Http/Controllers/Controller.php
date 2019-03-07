@@ -11,4 +11,5 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
     // Este es un comentario extra.
+    // Nuevo cambio en Controller.
 }
